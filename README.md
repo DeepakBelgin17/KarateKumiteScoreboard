@@ -4,6 +4,14 @@
   <img src="https://www.karatecollection.com/wp-content/uploads/2024/03/rafael-aghayev.jpg" width="400" alt="Kumite Scoreboard Logo">
 </p>
 
+<p align="center">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSHxlDTyzK1cEU9HS_nDtjUCWGbyNWYzyzjHB9gnnbj5PQeO0op5pAoni9bSVn-K3mpYA&usqp=CAU" width="400" alt="Kumite Scoreboard Image">
+</p>
+
+<p align="center">
+  <img src="https://img.informer.com/p8/npro-kumite-wkf-v1.1-main-window-picture.png" width="400" alt="Kumite Scoreboard Image">
+</p>
+
 ## Abstract
 
 The "Kumite Scoreboard" project introduces a sophisticated digital solution poised to redefine the landscape of karate competitions. Built with the aim of addressing the multifaceted needs of organizers and participants, this project represents a significant leap forward in tournament management and engagement.
