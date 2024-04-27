@@ -1,13 +1,37 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+# Kumite Scoreboard
 
 <p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
+  <img src="https://www.karatecollection.com/wp-content/uploads/2024/03/rafael-aghayev.jpg" width="400" alt="Kumite Scoreboard Logo">
 </p>
 
+## Abstract
+
+The "Kumite Scoreboard" project introduces a sophisticated digital solution poised to redefine the landscape of karate competitions. Built with the aim of addressing the multifaceted needs of organizers and participants, this project represents a significant leap forward in tournament management and engagement.
+
+At its core, the digital scoreboard serves as a comprehensive platform, offering organizers intuitive tools for athlete registration, match scheduling, and result tracking. By centralizing these critical aspects of competition management, the project streamlines workflows and minimizes administrative burdens, allowing organizers to focus on delivering a seamless experience for participants and spectators.
+
+Furthermore, the dynamic scoreboard interface transforms the way in which match information is presented, with real-time updates providing instant feedback on scores and match progress. This feature not only enhances the viewing experience for spectators but also ensures fairness and transparency throughout the competition. Additionally, the scoreboard's compatibility with large screens makes it an ideal centralized for tournament venues, captivating audiences and creating an immersive atmosphere.
+
+In addition to its practical benefits, the "Kumite Scoreboard" project embodies a commitment to inclusivity and accessibility within the karate community. By providing a digital platform that is user-friendly and accessible to all, the project aims to empower participants of diverse backgrounds and skill levels to engage fully in the competition experience.
+
+Innovative project “Kumite Scoreboard” ensure user-centric design, and exclusive commitment, set a new standard perspective for excellence in karate tournament management. As tournaments continue to evolve in complexity and scale, this project stands poised to meet the evolving needs of organizers and participants, ensuring that karate competitions remain vibrant, engaging, and accessible to all.
+
+## Scope of the Project
+
+The "Kumite Scoreboard" project deals with the following modules:
+
+- Home page
+- Category page
+- Round 1 page
+- Round 2 page
+- Round 3 page
+- Score Card Page
+- Scoreboard Result page
+- Admin page
+
 ## About Laravel
+
+<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
 
@@ -48,56 +72,3 @@ We would like to extend our thanks to the following sponsors for funding Laravel
 - **[OP.GG](https://op.gg)**
 - **[WebReinvent](https://webreinvent.com/?utm_source=laravel&utm_medium=github&utm_campaign=patreon-sponsors)**
 - **[Lendio](https://lendio.com)**
-
----
-
-# Kumite Scoreboard
-
-<p align="center">
-  <img src="https://example.com/your-image.png" width="400" alt="Kumite Scoreboard Logo">
-</p>
-
-## About
-
-The Karate Scoreboard Project aims to create a digital system for competitions, managing athlete registration, match scheduling, and real-time scoring. It features a user-friendly interface, responsive design, and integrates with hardware and external APIs. Comprehensive documentation and ongoing support ensure successful implementation.
-
-## Scope of the Project
-
-The "Kumite Scoreboard" project deals with the following modules:
-
-- Home page
-- Category page
-- Round 1 page
-- Round 2 page
-- Round 3 page
-- Score Card Page
-- Scoreboard Result page
-- Admin page
-
-## Abstract
-
-The "Kumite Scoreboard" project introduces a sophisticated digital solution poised to redefine the landscape of karate competitions. Built with the aim of addressing the multifaceted needs of organizers and participants, this project represents a significant leap forward in tournament management and engagement.
-
-At its core, the digital scoreboard serves as a comprehensive platform, offering organizers intuitive tools for athlete registration, match scheduling, and result tracking. By centralizing these critical aspects of competition management, the project streamlines workflows and minimizes administrative burdens, allowing organizers to focus on delivering a seamless experience for participants and spectators.
-
-Furthermore, the dynamic scoreboard interface transforms the way in which match information is presented, with real-time updates providing instant feedback on scores and match progress. This feature not only enhances the viewing experience for spectators but also ensures fairness and transparency throughout the competition. Additionally, the scoreboard's compatibility with large screens makes it an ideal centralized for tournament venues, captivating audiences and creating an immersive atmosphere.
-
-In addition to its practical benefits, the "Kumite Scoreboard" project embodies a commitment to inclusivity and accessibility within the karate community. By providing a digital platform that is user-friendly and accessible to all, the project aims to empower participants of diverse backgrounds and skill levels to engage fully in the competition experience.
-
-Innovative project “Kumite Scoreboard” ensure user-centric design, and exclusive commitment, set a new standard perspective for excellence in karate tournament management. As tournaments continue to evolve in complexity and scale, this project stands poised to meet the evolving needs of organizers and participants, ensuring that karate competitions remain vibrant, engaging, and accessible to all.
-
-## Installation
-
-Instructions on how to install and set up the Kumite Scoreboard project.
-
-## Usage
-
-Instructions on how to use the Kumite Scoreboard project.
-
-## Contributing
-
-Thank you for considering contributing to the Kumite Scoreboard project! The contribution guide can be found in the [CONTRIBUTING.md](CONTRIBUTING.md) file.
-
-## License
-
-The Kumite Scoreboard project is open-sourced software licensed under the [MIT license](LICENSE).
