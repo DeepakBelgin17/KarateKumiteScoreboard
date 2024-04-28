@@ -1,0 +1,326 @@
+.nav-color{
+    color:gold;
+}
+
+body {
+    overflow-x: hidden;
+  }
+
+  .modal.right .modal-dialog {
+    position: fixed;
+    top: 0;
+    right: 0;
+    margin-right: 0;
+    transform: translateX(100%);
+    transition: transform 0.3s ease-out;
+    height: 100%;
+  }
+
+  .modal.right.show .modal-dialog {
+    transform: translateX(0);
+  }
+
+h3{
+font-family: "Sofia", sans-serif;
+}
+
+.kal1{
+font-family: "Sofia", sans-serif;
+margin-left: 95px;
+
+}
+.er{
+  border: 1px solid yellow;
+}
+.c{
+
+width: 60%;
+border: 3px solid #73AD21;
+padding: 10px;
+margin-left: 500px;
+z-index: +1;
+}
+
+#toggleButton {
+    width: 100px;
+  }
+
+  .but{
+width: 30px;
+height:38px;
+  }
+  .up{
+    z-index: +1;
+  }
+  .bor{
+    border-style: solid;
+  }
+
+
+
+.ali{
+margin-top:18px;
+}
+.q{
+width: 350px;
+
+}
+.bac{
+background: rgb(159, 220, 240);
+}
+.bac1{
+background: rgb(166, 228, 166);
+}
+.bac2{
+background: rgb(243, 157, 157);
+}
+
+/* Default styling for the navigation bar items */
+.ho {
+
+  text-decoration: none; /* Remove underline for links */
+  transition: color 0.3s ease; /* Smooth transition effect */
+}
+
+/* Hover styling for the navigation bar items */
+.ho:hover {
+  color: white; /* Color change on hover */
+}
+
+.abc {
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 16px;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: none;
+    cursor: pointer;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+  }
+
+
+  .abc:hover {
+    background-color: #0056b3;
+  }
+
+  .abc1 {
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 16px;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: none;
+    cursor: pointer;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+  }
+
+
+  .abc1:hover {
+    background-color: #d61f1f;
+  }
+
+  .def {
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 16px;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: none;
+    cursor: pointer;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+  }
+
+
+  .def:hover{
+    background-color:yellow;
+  }
+
+  .ghi {
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 16px;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: none;
+    cursor: pointer;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+  }
+
+
+  .jkl{
+    width: 200px;
+    height: 200px;
+    padding: 10px;
+    border: 2px solid #ddd;
+    border-radius: 50%; /* Border-radius of 50% for a circular shape */
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+    transition: border-color 0.3s ease;
+    border-color: #007bff;
+  }
+
+  /* Input focus style */
+  .jkl:focus {
+
+    outline: none;
+  }
+
+  .jkl1{
+    width: 200px;
+    height: 200px;
+    padding: 10px;
+    border: 2px solid #ddd;
+    border-radius: 50%; /* Border-radius of 50% for a circular shape */
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+    transition: border-color 0.3s ease;
+    border-color: red;
+  }
+
+  /* Input focus style */
+  .jkl1:focus {
+
+    outline: none;
+  }
+
+  .lov{
+display:flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    max-width: 800px;
+margin-left:500px;
+  }
+
+  .c1, .c2, .c3, .c4,.c5,.c6,.c7,.c8 {
+
+    width: 20px;
+    height: 20px;
+    cursor: pointer;
+  }
+
+
+
+  .c9, .c10, .c11, .c12,.c13,.c14,.c15,.c16 {
+
+    width: 20px;
+    height: 20px;
+    cursor: pointer;
+}
+
+ .sh{
+  width: 200px;
+ }
+.cat{
+margin-top:390px;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-size: larger;
+color:black;
+
+}
+
+.cat1{
+    margin-top:10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: larger;
+    color:black;
+    }
+
+    #timerDisplay {
+        font-size: 24px;
+        margin-top: 20px;
+      }
+
+      .error {
+        color: red;
+    }
+
+    .kal {
+
+          color: transparent;
+        background-clip: text;
+        background-image: linear-gradient(rgb(58, 250, 10), rgb(1, 136, 247));
+        font-size: 40px;
+        font-weight: bold;
+
+      }
+      .ers {
+        display: inline-block;
+        padding: 10px 20px;
+        font-size: 16px;
+        text-align: center;
+        text-decoration: none;
+color:#ffff;
+        background-color: #0ca2e7;
+        border: 2px solid rgb(244, 248, 26);
+        border-radius: 5px;
+        transition: background-color 0.3s, color 0.3s;
+        cursor: pointer;
+    }
+
+    /* Button hover effect */
+    .ers:hover {
+        background-color: #12d81c;
+        color:#ffff;
+
+    }
+    .custom-btn-width {
+        width: 150px; /* Set the desired width */
+    }
+
+    .custom-btn-height {
+        height: 90px; /* Set the desired height */
+    }
+
+    .bel {
+
+      padding:10px;
+
+        border-radius: 75%;
+        border: 2px solid #080808;
+        transition: border-color 0.3s ease;
+
+      }
+
+      .prof {
+        display: inline-block;
+        padding: 10px 20px;
+        font-size: 16px;
+        font-weight: bold;
+        text-align: center;
+        text-decoration: none;
+        cursor: pointer;
+        border-radius: 5px;
+        transition: background-color 0.3s ease;
+      }
+
+      .prof:hover {
+        background-color: #1fd665;
+      }
+
+      .ran{
+            border-radius: 30px;
+            margin-left:300px;
+            text-align: center;
+          }
+
+      .ber{
+        font-size: 20px; /* Set the desired font size */
+        font-weight: bold; /* Set the desired font weight */
+
+              }
+
+              .toki{
+                color:rgb(5, 5, 5);
+                background-color: gold;
+             }
+             .toki:hover {
+                background-color: #1fd665;
+              }
+
+
+              .ran1{
+                  border-radius: 50px;
+              }
